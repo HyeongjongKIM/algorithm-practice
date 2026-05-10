@@ -1,0 +1,15 @@
+node_modules/
+coverage/
+dist/
+*.tsbuildinfo
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.prettier-cache
+skills-lock.json
